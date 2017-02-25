@@ -1,0 +1,81 @@
+http://ca.indeed.com/rc/clk?jk=aa3856501067ebcf&fccid=537b899e30af3338
+What is the opportunity?
+Responsible for communication with technical/business users in support of Enterprise Information Management DWE (Data Warehouse Environment) /EBI (Enterprise Business Intelligence) solutions. Role includes prioritizing requests from generic mailboxes, investigation and analyzing issues raised through HP Service Manager 9 Tickets, monitoring and resolution of issues as designated first line support of the Data Warehouse Environment, Month end data verification, sending bulletins to the Enterprise User Community and data dictionary updates as required.
+ 
+
+Report to DWE/EBI Client Service Senior Manager
+Effectively communicate and build rapport with team members, stakeholders and business partners using a variety of techniques and collaboration from initiation to close
+Continually enhance skills and build knowledge in all aspects of the organization, the business and information systems
+Cross-enterprise team members include all applications that source EIM
+Business partners include enterprise business users of EIM solutions Technical partners include EIM, Customer Information Management, and all applications that source EIM
+	 
+
+What will you do?
+
+Monitor generic mail boxes in terms of requests/issues/questions relating to the Enterprise Data Warehouse environment.
+Working closely with users and business sponsors, understanding business needs and requirements, resolving production issues and ensuring that expectations are met of user’s pertaining to their questions/issues/requests.
+Achieve expected Service Level Agreements with business users.
+Understanding of Teradata/ Oracle Business Intelligence/ Hadoop Access Request process and monitors all requests ensuring appropriate manager and Data Steward Approval is in place before granting access.
+Develops and maintains strong relationships with business partners and internal/external team members.
+Manage the logging and tracking of Problems and Incidents through to resolution, providing project managing, business system analysis, documentation, and validation by work on problem tracking records via HP Quality Center that requires more analysis and investigation.
+Continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+Handling requests/issues/questions as they arise in a high fast paced environment with exceptional communication skills required to interface with a highly engaged client group.
+Ability to work well under pressure to meet targets and deadlines.
+Assigned special projects as required.
+
+ 
+What do you need to succeed?
+Must-have
+
+Undergraduate degree preferably Computer Science with emphasis on IT/Business
+Teradata, Oracle Business Intelligence (OBI), SQL, Hadoop experience/exposure
+Communication, Facilitation and Presentation Skills
+Risk Assessment & Quantification methodologies
+Conflicts and issues resolution and escalation
+Business line(s)' business applications process knowledge.
+
+ 
+Nice-to-have
+
+Different programming languages (e.g. VB, Java, etc.)
+Technical knowledge/experience and exposure to Hadoop Hortonworks platform technologies
+Competence with Hadoop administration, support, application performance analysis & tuning
+Multiple platforms e.g. Oracle (Enterprise) Business Intelligence (OBI), Big Data, Infoaccess, Datameer, Tableau, etc.
+IT Standards, Methodologies, CMM & Audit requirements
+
+ 
+What’s in it for you?
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
+
+A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable
+Leaders who support your development through coaching and managing opportunities
+Ability to make a difference and lasting impact
+Work in a dynamic, collaborative, progressive, and high-performing team
+Opportunities to do challenging work
+
+ 
+ 
+About RBC
+Royal Bank of Canada is Canada’s largest bank, and one of the largest banks in the world, based on market capitalization. We are one of North America’s leading diversified financial services companies, and provide personal and commercial banking, wealth management, insurance, investor services and capital markets products and services on a global basis. We have over 80,000 full- and part-time employees who serve more than 16 million personal, business, public sector and institutional clients through offices in Canada, the U.S. and 37 other countries. For more information, please visit rbc.com.
+ 
+Inclusion and Equal Opportunity Employment
+RBC is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status, Aboriginal/Native American status or any other legally-protected factors. Disability-related accommodations during the application process are available upon request.
+ 
+JOB SUMMARY
+City:  Toronto 
+Address:  88 Queens Quay W 
+Work Hours/Week:  37.5 
+Work Environment:  Office 
+Career Level:  Experienced Hire/Professional 
+Pay Type:  Salaried 
+Required Travel(%):  0    
+People Manager:  No 
+Req ID:  119454
+Posting Notes:  None
+
+
+
+
+
+Job Segment: 
+Database, Bank, Banking, Operations Manager, Data Warehouse, Technology, Finance, Operations

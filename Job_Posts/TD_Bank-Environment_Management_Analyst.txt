@@ -1,0 +1,21 @@
+http://ca.indeed.com/rc/clk?jk=1017f105beb9be75&fccid=d7114f1cac8d0711
+: 
+Auto req ID: 138360BR
+Job Title: Environment Management Analyst
+Report Location: Toronto
+Country: CANADA
+Province/ State: Ontario
+City: Toronto
+TD Description: Tell us your story. Don't go unnoticed. Explain why you're a winning candidate. Think "TD" if you crave meaningful work and embrace change like we do. We are a trusted North American leader that cares about people and inspires them to grow and move forward.Stay current and competitive. Carve out a career for yourself. Grow with us. Here's our story: jobs.td.com
+Department Overview: Cards and Merchant Solutions is the largest dual issuer of Visa and MasterCard products and holds the position of #1 market share in Canada. TD Consumer and Business credit cards are distributed nationally, leveraging our retail distribution network, direct response channels and key co-brand partnerships including Aeroplan. TD is a leader in direct to consumer affinity marketing by way of MBNA's hundreds of partnerships with financial institutions, retailers, non-profit organization, sports teams, and other third party organizations, including private label financing. As a trusted business partner, TD Merchant Solutions offers a full range of payment processing solutions and payment innovation for all types of businesses, including some of Canada's largest retailers.
+Job Type: Regular
+Job Status: Full Time
+Hours: 9-5
+Business Line: Cards and Merchant Solutions
+Job Category - Primary: Call Center
+Job Category(s): Call Center
+Job Description: The TD CAMS Environment Management team is responsible for ensuring the availability of environments in support of TD Cards and MBNA operations. We are seeking a talented and motivated Environment Analyst comfortable working in a fast paced project oriented environment. His/her main role will be to ensure the availability of the CAMS Cloud Environments and work to Manage the Environments in Cloud based projects.
+Job Requirements: •Bachelor’s degree in Computer Science or related field•Good communication skills both verbal and written•Experience in working and managing Cloud applications•Experience in working and managing distributed applications •Experience with the Atlassian stack (JIRA, Confluence, Stash) and Jenkins.•Experience with Linux/Unix, especially RHEL and configuring Linux systems.•Experience with Data and file formats (XML, JSON).•Experience with Blueprint coding – Python/Node JS/Angular JS•Experience facilitating meetings with technical teams and management.•Experience with incident and change management.•Expertise in working effectively in teams – requires a track record of working cross-organizationally and with multiple stakeholders at varying levels•Proven ability to work in a fast paced environment and manage multiple deadlines and priorities•Experience in working and managing HOST applications an asset •Previous Expertise in Credit Cards applications including TSYS an asset •Previous Banking knowledge an asset
+Inclusiveness: At TD, we are committed to fostering an inclusive, accessible environment, where all employees and customers feel valued, respected and supported. We are dedicated to building a workforce that reflects the diversity of our customers and communities in which we live and serve.  If you require an accommodation for the recruitment/interview process (including alternate formats of materials, or accessible meeting rooms or other accommodation), please let us know and we will work with you to meet your needs.
+**Province/State (Primary): Ontario
+City (Primary): Toronto

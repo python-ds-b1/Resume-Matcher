@@ -1,0 +1,76 @@
+http://ca.indeed.com/rc/clk?jk=e2a82a60924399d8&fccid=537b899e30af3338
+.
+What is the job? 
+Responsible for providing business intelligence/data analytics of insurance information through the creation and production of insurance reporting and analytics.  This is done by building/maintaining a MIS framework used to uncover trends/patterns through data mining and providing analytical support and client insight for all insurance divisions.
+ 
+What will you do?
+•             Contribute to the development and maintenance of data warehouse capabilities in SAS
+•             Contribute as the centre of expertise in all manner of product-centric data mining activities including data analysis, aggregation and management
+•             Participate in strategy meetings to gather and document business requirements, provide input and guidance based on analysis of results
+•             Assist in conducting complex engineering of KPI’s and analytical studies to help drive effective portfolio management
+•             Seek out new ways to engineer and manufacture best in class standard reports and dashboards to showcase insights and support tactics
+•             Counsel the use and interpretation of custom built reports to highlight business intelligence
+•             Manage day to day workflow and negotiate realistic timelines
+•             Participate actively in self and peer development relating to financial products, operational processes, relationship management, and technology enhancement
+•             Champion a positive, trusting, and satisfying work climate by living RBC values and culture
+•             Ensure compliance and privacy guidelines are strictly adhered to
+ 
+What do you need to succeed?
+Required:
+             Be effective and equally conversant in business and technical environments
+             Solid working experience with very large relational databases and large volumes of data of various formats
+             SAS and SQL programming demonstrating the use of efficient querying/datamining techniques
+             Solid working experience with MS Office Professional Suite with emphasis on Visual Basic or Visual Basic for Applications, for customized application development and information presentation
+             Knowledge of statistical procedures and applied data validation mechanisms
+             Strong knowledge of Dashboard Reporting methodology
+             Minimum undergraduate degree in Statistics/Mathematics, Finance, Computer Science, or a discipline that develops capability in data analytics and reporting
+             Minimum 1 years experience working with financial products/services and corresponding data
+             Strong analytical and problem solving skills
+             Strong, innate, business and data acumen
+ 
+Preferred:
+•             Comfortable managing large quantities of data
+•             Solid knowledge of unix/AIX v5, Terradata
+ 
+What’s in it for you?
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual. 
+-  A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation
+-  Leaders who support your development through coaching and managing opportunities
+-  Ability to make a difference and lasting impact
+-  Work in a dynamic, collaborative, progressive, and high-performing team
+ 
+ 
+*LI-DC1
+ 
+ 
+About RBC
+Royal Bank of Canada is Canada’s largest bank, and one of the largest banks in the world, based on market capitalization. We are one of North America’s leading diversified financial services companies, and provide personal and commercial banking, wealth management, insurance, investor services and capital markets products and services on a global basis. We have over 80,000 full- and part-time employees who serve more than 16 million personal, business, public sector and institutional clients through offices in Canada, the U.S. and 37 other countries. For more information, please visit rbc.com.
+
+Join our Talent Community
+Stay in-the-know about great career opportunities at RBC. It’s easy! Join our Talent Community and get the inside scoop on the jobs, career paths, and recruitment events that matter to you.
+ 
+Inclusion and Equal Opportunity Employment
+RBC is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status, Aboriginal/Native American status or any other legally-protected factors. Disability-related accommodations during the application process are available upon request.
+ 
+ 
+JOB SUMMARY
+City:  Mississauga 
+Address:  6880 Financial Dr 
+Work Hours/Week:  37.5 
+Work Environment:  Office 
+Employment Type:  Permanent 
+Career Level:  Experienced Hire/Professional 
+Pay Type:  Salaried 
+Required Travel (%):  0 
+Exempt/Non-Exempt:  N/A 
+People Manager:  No 
+Application Deadline:  10/13/2016 
+Req ID:  120590
+Posting Notes:  None
+
+
+
+
+
+Job Segment: 
+Business Intelligence, Developer, Bank, Banking, Engineer, Technology, Finance, Engineering

@@ -1,0 +1,112 @@
+http://ca.indeed.com/rc/clk?jk=ef2716649bd336d0&fccid=537b899e30af3338
+Purpose
+ 
+
+Identify tagging / instrumentation requirements, gaps in current processes and provide best-practices recommendations regarding the implementation of solutions such as web analytics, attribution and marketing operations.
+Deploy and develop customized technical solutions to enable the implementation of digital analytics platforms
+Participate in design and code reviews, documentation of design, and implementation of methodologies to ensure the highest quality software
+Implement and maintain digital data layer to standardize and distribute data to RBC systems
+Act as day-to-day point of contact with Tag Management System vendor to address issues and request support as needed
+
+ 
+Primary Responsibilites
+ 
+
+Work with clients to understand their business objectives and translate into analytics integration and technology strategy and requirements
+Provide technical support to internal and client teams around analytics tagging, data validation and data integration
+Using the Digital Measurement Plan as guide, oversee the implementation and usage of the Digital Analytics Platform to collect data required by Digital Product Owners, LOBs and other stakeholders
+Define analytics Quality Assurance and testing activities to ensure accurate and efficient data collection
+Administer Ensighten Tag Management System for RBC digital properties
+Validate and debug analytics implementation issues
+Setup and maintain multiple tag management and analytics accounts to drive efficient client solutions. 
+Guide key stakeholders in the appropriate implementation and validation of new tagging requirements and fixes, and ensure existing tracking remains intact. 
+Stay abreast on emerging web measurement tools, strategies and trends; continue to educate self analytically and technically. 
+Contribute to the development of system documentation as required by Information Security and Privacy Risk Management
+Pilot and implement new functionality on RBC’s online properties.
+Provide technical support of TMS technology 24/7, especially during upgrade/fixes
+Act as key technical support for internal users of Tag Management System and Digital Analytics Platform, troubleshooting and dealing with Vendor Support teams when required. 
+Effectively communicates and builds rapport with team members, stakeholders and business partners using a variety of techniques and collaboration from initiation to close.  Resolves conflicts/issues of medium complexity and escalates others as appropriate.
+Actively participate in weekly project status meetings and ensure assigned tasks are completed on time to support project deliverables
+
+ 
+Job Requirements
+ 
+
+Bachelor of Science degree in Computer Science, Software Engineering, an International equivalent, or other related field
+Fastidious attention to detail, and ability to prioritize while under pressure
+Ability to propose, advocate and critique design alternatives to determine solutions.
+Take responsibility and ownership for the quality of all deliverables.
+Strong Written and Oral Communications skills
+Strong Organizational Skills
+
+ 
+Systems Knowledge
+ 
+
+Experience with Tag Management tools such as Ensighten, Adobe Dynamic Tag Manager, Tealium or Google Tag Manager
+Experience implementing web and advertising analytics tools such as Google Analytics Premium, Adobe Analytics or Webtrends
+3-5 years front end web development experience (JavaScript, jQuery, CSS, HTML)
+Deep understanding of JavaScript events and jQuery custom events necessary, and best practices for JavaScript coding
+Familiarity with front end SPA frameworks such as Angular and React preferred
+Web application programming experience (PHP, Java, Ruby, etc.) preferred
+Deep understanding of the DOM and the page loading lifecycle (familiar with synchronous versus asynchronous loading)
+Deep understanding of HTTP and Web APIs (consuming REST and SOAP APIs)
+Debugging techniques and tools for front end web development
+
+
+Web Analytics understanding (Most important KPIs)
+SQL and interfacing with databases experience
+Project Tracking software experience (Rally, Jira)
+
+
+Process Knowledge
+ 
+
+Software version control and release management
+Software testing tools and methodologies
+IT Standards and best practices
+Different design techniques (e.g. OO. Top-down, structured analysis, component-based design)
+Software Design Patterns and Techniques
+
+
+
+
+
+ 
+
+
+
+
+ 
+Learn more about RBC Tech Jobs
+ 
+About RBC
+Royal Bank of Canada is Canada’s largest bank, and one of the largest banks in the world, based on market capitalization. We are one of North America’s leading diversified financial services companies, and provide personal and commercial banking, wealth management, insurance, investor services and capital markets products and services on a global basis. We have over 80,000 full- and part-time employees who serve more than 16 million personal, business, public sector and institutional clients through offices in Canada, the U.S. and 37 other countries. For more information, please visit rbc.com.
+ 
+Join our Talent Community
+Stay in-the-know about great career opportunities at RBC. It’s easy! Join our Talent Community and get the inside scoop on the jobs, career paths, and recruitment events that matter to you.
+ 
+Inclusion and Equal Opportunity Employment
+RBC is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status, Aboriginal/Native American status or any other legally-protected factors. Disability-related accommodations during the application process are available upon request.
+ 
+JOB SUMMARY
+City:  Toronto 
+Address:  88 Queens Quay West 
+Work Hours/Week:  37.5 
+Work Environment:  Office 
+Employment Type:  Permanent 
+Career Level:  Experienced Hire/Professional 
+Pay Type:  Salary + Variable Bonus 
+Required Travel(%):  0    
+Exempt/Non-Exempt:  N/A 
+People Manager:  No 
+Job Posting End Date:  02/15/2017 
+Req ID:  128290
+Posting Notes:  
+
+
+
+
+
+Job Segment: 
+Analytics, Developer, Data Analyst, Bank, Banking, Management, Technology, Data, Finance

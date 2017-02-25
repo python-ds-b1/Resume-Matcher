@@ -1,0 +1,21 @@
+http://ca.indeed.com/rc/clk?jk=f138893d26ec9f3a&fccid=d7114f1cac8d0711
+: 
+Auto req ID: 136197BR
+Job Title: Data Scientist
+Report Location: 55 King St West, TD North Tower, Toronto, Ontario M5K1A2
+Country: CANADA
+Province/ State: Ontario
+City: Toronto
+TD Description: About TD Bank GroupThe Toronto-Dominion Bank and its subsidiaries are collectively known as TD Bank Group (“TD” or “the Bank”).TD is the sixth largest bank in North America by branches and serves over 24 million customers in three key businesses operating in a number of locations in financial centres around the globe: Canadian Retail, including TD Canada Trust, TD Auto Finance Canada, TD Wealth, TD Direct Investing, and TD Insurance; U.S. Retail, including TD Bank, America's Most Convenient Bank, TD Auto Finance U.S., and an investment in TD Ameritrade; and  Wholesale Banking, including TD Securities. TD had CDN$1.1 trillion in assets on January 31, 2015. TD also ranks among the world’s leading online financial services firms, with approximately 9.7 million active online and mobile customers. The Toronto-Dominion Bank trades on the Toronto and New York stock exchanges under the symbol "TD".
+Department Overview: The successful candidate will be a key part of a dynamic, innovative team that supports the central Enterprise Analytics function within TD Bank Group, through leading-edge analytical and modelling work.  The Enterprise Customer Data & Analytics Team develops statistical models, data mining and analytical solutions to solve a wide array of business problems, including how to drive acquisition, migration and retention strategies for TDBFG, across all product areas.
+Job Type: Regular
+Job Status: Full Time
+Hours: 9am - 5pm
+Business Line: Corporate
+Job Category - Primary: Marketing
+Job Category(s): Marketing
+Job Description: A successful candidate will have hands-on experience working in Big Data Analytical environments, with a deep understanding of data mining and analytical techniques, meaningful experience building strong working relationships, and success in effectively identifying and managing client requirements and expectations.  Work closely with business owners to identify opportunities and serve as an ambassador for data scienceDesign and deliver enterprise analytic solutions to our customersDevelop powerful business insights from social, marketing and industrial data using advanced machine learning techniquesBuild complex statistical models that learn from and scale to petabytes of data.Work in a highly interactive, team-oriented environment with Big Data developers and Visualisation experts
+Job Requirements: Graduate level qualification in a relevant technical field (Computer Science, Engineering, Applied Mathematics/Statistics, Operations Research) ideally with a  specialization in data mining/machine learningUp to 5 years' experience of working in analytical environmentsDeep expertise in analytical tools such as R/Matlab/SAS/StataExperience of scripting languages such as Python/Ruby/PHP etc.Experience of relational databases and usage of SQLExperience of Object Orientated programming via Java/C++Experience of Big data technologies (Hadoop, HIVE, PIG, Spark etc.) and unstructured dataDemonstrated track record of manipulation of large volume, high frequency data for analytical purposes on a Big Data platformDemonstrated experience of developing and implementing statistical models (predictive & descriptive)Demonstrated experience in delivering high quality, high impact analytical solutions to business problems
+Inclusiveness: At TD, we are committed to fostering an inclusive, accessible environment, where all employees and customers feel valued, respected and supported. We are dedicated to building a workforce that reflects the diversity of our customers and communities in which we live and serve, and creating an environment where every employee has the opportunity to reach her/his potential.TD is committed to providing accommodations. if you require an accommodation, we will work with you to meet your needs.
+**Province/State (Primary): Ontario
+City (Primary): Toronto

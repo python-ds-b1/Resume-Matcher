@@ -1,0 +1,79 @@
+http://ca.indeed.com/rc/clk?jk=2ac84fc44fb6620c&fccid=537b899e30af3338
+What is the opportunity?
+Analyze, design and implement data science solutions using RBC’s enterprise suite of analytics tools.  Data Science allows us to better understand the implications of what information means, identify trends, anticipate future behaviors, perform pattern matching, discover the golden path clients take that leads to a future decision and predict the outcomes of future events.  The group specializes in taking full advantage of large data sets to explore and discover new insights that would have not been possible with traditional analytics.  Leveraging leading edge technologies and capabilities, the group applies machine learning and statistical modelling techniques to help RBC understand the changing business environment, discover new growth opportunities and determine where business improvements can be made.  The group is equipped with capabilities in text analytics/Natural Language Processing, social media analytics, Big Data advanced analytics and Machine Learning.
+ 
+What will you do?
+Data scientists analyze data using statistical, machine learning, and analytics techniques to solve complex problems, discover insights and identify business opportunities. 
+ 
+Statistics & Machine Learning: Build statistical and machine learning models to test business hypotheses. 
+ 
+Technology:  Prepare and integrate large and varied datasets, build statistical and machine learning models using Python and R, and deploy proof of concept solutions.
+ 
+Domain Knowledge: Collaborate with business partners to produce insights from business-defined requirements and hypotheses.
+ 
+Communication & Visualization: Effectively communicate findings to business partners.  Leverage advanced visualization tools (D3, R, LaTeX) to create powerful representations of results.
+ 
+What do you need to succeed?
+Must-have
+
+Experience with big data technologies (Hadoop (Pig, Hive), noSQL/SQL databases, parallel processing techniques, Apache Spark) and statistical methods.
+Strong data profiling, cleaning, and mining.
+Ability to perform complex data analysis on large volumes of data and present findings to stakeholders.
+Strong knowledge of design, development, and implementation experience utilizing data science technologies.
+Excellent analytical, problem solving skills and technical documentation skills.
+Familiar with a range of data tools and machine learning techniques.
+Programming skills and some knowledge of Python, R, Java and SQL
+Familiar with a Linux environment and shell scripting.
+Familiar with data extract, transform and load processes with a variety of data types.
+Strong interpersonal and communication skills (both written and verbal); ability to communicate with people in a wide variety of areas and at various levels from technical specialists to senior management.
+Ability to quickly and efficiently adapt to new concepts.
+BSc. or Masters in Mathematics, Statistics or Computer Science
+
+Nice-to-have
+
+Experience with Deep Learning
+Passion for data research, algorithms and statistics
+
+ 
+What’s in it for you?
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
+
+A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable
+Leaders who support your development through coaching and managing opportunities
+Ability to make a difference and lasting impact
+Work in a dynamic, collaborative, progressive, and high-performing team
+Opportunities to do challenging work
+
+ 
+Learn more about RBC Tech Jobs
+ 
+About RBC
+Royal Bank of Canada is Canada’s largest bank, and one of the largest banks in the world, based on market capitalization. We are one of North America’s leading diversified financial services companies, and provide personal and commercial banking, wealth management, insurance, investor services and capital markets products and services on a global basis. We have over 80,000 full- and part-time employees who serve more than 16 million personal, business, public sector and institutional clients through offices in Canada, the U.S. and 37 other countries. For more information, please visit rbc.com.
+ 
+Join our Talent Community
+Stay in-the-know about great career opportunities at RBC. It’s easy! Join our Talent Community and get the inside scoop on the jobs, career paths, and recruitment events that matter to you.
+ 
+Inclusion and Equal Opportunity Employment
+RBC is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status, Aboriginal/Native American status or any other legally-protected factors. Disability-related accommodations during the application process are available upon request.
+ 
+JOB SUMMARY
+City:  Toronto 
+Address:  88 Queens Quay W 
+Work Hours/Week:  37.5 
+Work Environment:  Office 
+Employment Type:  Permanent 
+Career Level:  Experienced Hire/Professional 
+Pay Type:  Salaried 
+Required Travel(%):  0    
+Exempt/Non-Exempt:  N/A 
+People Manager:  No 
+Job Posting End Date:  02/28/2017 
+Req ID:  120697
+Posting Notes:  None
+
+
+
+
+
+Job Segment: 
+Database, Scientific, Bank, Banking, Developer, Engineering, Technology, Finance

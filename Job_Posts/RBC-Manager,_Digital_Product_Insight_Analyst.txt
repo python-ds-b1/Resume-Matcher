@@ -1,0 +1,80 @@
+http://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CiZpNPINXNlJI-wJ8icaB9l7kFHpvg85xBNSY5KfOceFQ2Q-adOusWIflBiIl5ugO9XJ5RiNfZ7BfZKS8tXOTVWow4g6s6zgRUMM2nn_1kXVn3tANFyR9QGIlqOv9Y6XoRSNwpa7Rr1NNhIQdDeT4Q8sTC2_N3KmPV3v-dEV6KLqTkUeJ8kct5W2fL3ZbMVtKmDmJzmYuSJHdZbVbWrVC18ypxM_Zcv_zS6gAyF9UEwsr1JziUNl8aCaa8yDyQWYNu8xc9_PRCu8JT36ZUQJYazj2kWdbnRt2gdo1XuNrvOBY2qsq4m6pPe9PFBykmw3okhEU3CRJRZw6GF8b9ANj_FDPpSUbiqf_3FPANvPexhAu993RpaRBhDOM7Wq9gsKBQf1FbJHk0xrrmd2TBsa6UG9OhEJ40uRdgv0S0g1O5uNjSJIU3heSNPgTzsgceAfUrFZtrE6AQjQlz9vpFhKXh4WxiocZdKyoQfSbIVdNcsR0CiBTXcHagPnnFc3dr4uN53tqjM4smg5y4oiDkqZAS4Jsx8G-KMhhyOE41_Y4S3N5Z23fS7tlbxRqOHd1fKKc2gJyW_K2-PTLVNAhkcOg6sUd0982fWofeyOqIIv8KB-VQbzq8e2zE&p=4&sk=&fvj=0
+.
+Manager, Digital Product Insight Analyst
+ 
+What is the opportunity?
+Are you a highly analytical indidual with a strategic mindset and solid relationship management skills? If so we want to hear from you. 
+ 
+In this role you will define and implement efficient analytics strategies for digital products and act as the primarily relationship manager to digital product teams for Digital Analytics.    The successful candidate is highly technical and will provide analytical support to RBCs growing portfolio of digital products (i.e. Mobile, tablet, etc.) You will operate as the analytics expert in the Digital Product teams and business teams to turn the output from analytical models into business actions.   In this role you will have the opportunity to build critical understanding of RBC customers and how they use our products and help the team be a strong internal voice for the power of analytics and measurement.
+ 
+What will you do?
+
+Analyze large, data sets representing the behavior of digital product users to provides insights about user actions that lead to conversions – attribution models, path analysis, cohort analysis, conversion analytics, etc
+Support Multivariate and A/B testing by exposing core insights from the data to suggest, create and execute multivariate or a/b/c tests that drive fundamental improvements to the site experience
+Ability to calculate various metrics and changes to customer behaviors based on new product releases
+Develop frameworks, models, tools, and processes to institutionalize findings and develop communication (presentations, visual diagrams, process maps, etc.) documenting current state as well as frame up issues and options for consideration
+Leverage real-time insights to provide advice to the Digital product teams to inform product development, you will also liase with digital product teams to identify and act on opportunities identified insights and analytics
+Identifying use cases based on activities and needs of the Digital Product teams
+In this role you will consult with digital team leaders to identify new tools and opportunities to increase business results as well as exhibiting a high level of expertise in driving the data strategy in the Online Channel by identifying gaps in the data capture strategy and collaboratively implement enhancements
+Explore new tools and technologies and build awareness of what competitor are doing with their media and platforms
+
+ 
+What do you need to succeed?
+Must have
+
+3+ years' experience in related product development, insights/analytics, marketing analyst or data mining role with a BA/BSc or above in mathematics, statistics, computer science or related quantitative field
+Proven relationship management skills with solid communication and presentation skills
+Through understanding of marketing analytics, data mining, experimentation and measurement
+Knowledge of web and mobile development processes
+Solid technical skills - familiar with online tools such as Google Analytics Premium, Google Adwords, Ensighten, Tableau, CoreMetric in addition to advanced MS Excel Software skills and proven experience in SAS and R is required
+Detailed knowledge of Mobile Reporting Strategies, Social Media Reporting Methods, SEM (Search Engine Marketing) / PPC (Pay Per Click) and SEO (Search Engine Optimization) strategies and a minimum five year experience measure success of SEM/PPC and SEO campaigns / efforts
+
+ 
+Nice-to-have
+
+Ability to code in JavaScript, JQuery, HTML and related languages
+Knowledge of advanced digital analytics methodologies such as experimentation and testing, competitive analysis, surveys and market research.
+
+ 
+What’s in it for you?
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual. 
+
+A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable
+Leaders who support your development through coaching and managing opportunities
+Ability to make a difference and lasting impact
+Work in a dynamic, collaborative, progressive, and high-performing team 
+
+ 
+(SFDG, SFAG, SFBD, SFCL, SFMB, SFSC)
+ 
+ 
+About RBC
+Royal Bank of Canada is Canada’s largest bank, and one of the largest banks in the world, based on market capitalization. We are one of North America’s leading diversified financial services companies, and provide personal and commercial banking, wealth management, insurance, investor services and capital markets products and services on a global basis. We have over 80,000 full- and part-time employees who serve more than 16 million personal, business, public sector and institutional clients through offices in Canada, the U.S. and 37 other countries. For more information, please visit rbc.com.
+ 
+Inclusion and Equal Opportunity Employment
+RBC is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status, Aboriginal/Native American status or any other legally-protected factors. Disability-related accommodations during the application process are available upon request.
+ 
+ 
+JOB SUMMARY
+City:  Toronto 
+Address:  88 Queens Quay West 
+Work Hours/Week:  37.5 
+Work Environment:  Office 
+Employment Type:  Permanent 
+Career Level:  Experienced Hire/Professional 
+Pay Type:  Salary + Variable Bonus 
+Required Travel (%):  0-25 
+Exempt/Non-Exempt:  N/A 
+People Manager:  No 
+Application Deadline:  09/26/2016 
+Req ID:  119100
+Posting Notes:  None
+ 
+SFDG
+
+
+
+
+
+Job Segment: 
+Bank, Banking, Developer, Advertising, SEM, Technology, Finance, Marketing

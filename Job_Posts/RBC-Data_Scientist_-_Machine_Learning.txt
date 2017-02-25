@@ -1,0 +1,93 @@
+http://ca.indeed.com/rc/clk?jk=f24a33c8ca8af736&fccid=537b899e30af3338
+.
+What is the opportunity?
+Study of the threat landscape reveals that the number of cyber-attacks has increased significantly over the past decade. Attackers are more sophisticated and better organized than any time before and the attacks are becoming more and more complex in nature. Traditional solutions, mostly based on signatures and predetermined rules, are therefore incapable of handling complex scenarios. Moreover, they lack required scalability and do not provide proper context and sufficient transparency into events and activities, which are essential for carrying out effective forensic activities.
+ 
+To overcome these challenges, Cyber Analytics program leverages big data technologies to perform data mining and predictive modelling using: i) the state-of-the-art machine learning techniques, and ii) approaches rooted in statistical learning theory. The goal of the program is to provide the means for Proactive threat analysis mainly aimed at: i) identifying threats that have not been seen before, ii) providing the ability to anticipate cyber-attacks and drive proactive mitigation, detection and response, and iii) monitoring the environment for anomalous behavior (“normal” vs. “outside norm”) to identify malicious actors and potentially malicious patterns of behavior, hence fortifying the cybersecurity posture of RBC.
+ 
+What will you do?
+
+Identify needs and recommend solutions to drive the intended outcomes of the Cyber Analytics program.
+Perform exploratory data analysis and data mining on structured an unstructured cybersecurity data to identify malicious patterns of behavior and misuse cases.
+Apply machine learning techniques and approaches rooted in statistical learning theory to enable predictive modelling capabilities required for the identification of complex threat scenarios.
+Write codes and develop software to implement the algorithms, just described, in Hadoop ecosystem.
+Research, and drive definition and development of analytics use-cases of various security data sources.
+Operate third party technologies to analyze security data and identify threats and misuse cases, and evaluate capabilities of those technologies.
+Contribute to successful completion of projects by identifying risks and developing / recommending mitigation strategies.
+Responsible for system-driven analysis of both structured and unstructured data.
+Develop and implement predictive models and performs statistical analysis of data.
+Interpret larger organizational needs and designing algorithmic solutions that will drive the intended business output.
+Support the influence and impact across the enterprise in promoting the Cyber Analytics strategic direction across the enterprise.
+Support the development of a proactive approach to cyber threat and misuse identification.
+
+ 
+What do you need to succeed?
+Must-have:
+
+A M.Sc. or Ph.D. degree in a field related to Computer Science, Mathematics & Statistics, Computational Science, etc.
+Expertise in one or more of the following programming languages: Python, R, Scala.
+Expertise in at least one of the following areas: Machine Learning, Statistical Learning Theory, Probability Theory, Probabilistic Graphical Models.
+Advanced knowledge of different Machine Learning concepts like Regression, Classification, Manifold Learning, Sequence Labeling, and Probabilistic Graphical Models, both in theory and application.
+Proficient in developing statistical models for data and running tests.
+Knowledge of Parallel Programming and High Performance Computing.
+Knowledge of Hadoop ecosystem and distributed computing platforms.
+Experience with big data processing tools like Spark, Pig, Hive, etc., as well as with search platforms like Solr or Elasticsearch.
+Strong analytical skills and competency in Mathematics.
+Strong communication skills
+
+Nice-to-have:
+
+Proficiency in Java programming language
+Knowledge of network and information security. 
+
+ 
+What’s in it for you?
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
+ 
+
+A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable
+Leaders who support your development through coaching and managing opportunities
+Ability to make a difference and lasting impact
+Work in a dynamic, collaborative, progressive, and high-performing team
+A world-class training program in financial services
+Flexible work/life balance options
+Opportunities to do challenging work
+Opportunities to take on progressively greater accountabilities         
+Opportunities to building close relationships with clients
+Access to a variety of job opportunities across business and geographies
+
+ 
+SFSC
+ 
+ 
+About RBC
+Royal Bank of Canada is Canada’s largest bank, and one of the largest banks in the world, based on market capitalization. We are one of North America’s leading diversified financial services companies, and provide personal and commercial banking, wealth management, insurance, investor services and capital markets products and services on a global basis. We employ approximately 78,000 full- and part-time employees who serve more than 16 million personal, business, public sector and institutional clients through offices in Canada, the U.S. and 39 other countries. For more information, please visit rbc.com.
+
+Join our Talent Community
+Stay in-the-know about great career opportunities at RBC. It’s easy! Join our Talent Community and get the inside scoop on the jobs, career paths, and recruitment events that matter to you.
+
+Diversity and Equal Opportunity Employment
+RBC is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+ 
+ 
+JOB SUMMARY
+City:  Toronto 
+Address:  88 Queens Quay W 
+Work Hours/Week:  37.5 
+Work Environment:  Office 
+Employment Type:  Permanent 
+Career Level:  Experienced Hire/Professional 
+Pay Type:  Salaried 
+Required Travel (%):  0 
+Exempt/Non-Exempt:  N/A 
+People Manager:  No 
+Job Posting End Date:  09/16/2016 
+Req ID:  119212
+Posting Notes:  None
+
+
+
+
+
+Job Segment: 
+Database, Scientific, Bank, Banking, Developer, Engineering, Technology, Finance

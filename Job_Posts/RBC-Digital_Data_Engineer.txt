@@ -1,0 +1,101 @@
+http://ca.indeed.com/rc/clk?jk=f4f9f12bfd34d6a1&fccid=537b899e30af3338
+What is the opportunity?
+ 
+You will be a Digital Data Engineer working with RBC’s Digital Intelligence & Digital Marketing Group. The purpose of this role is to develop, maintain, test and evaluate data solutions within RBC data systems. You will be driving implementation of new technologies to implement efficient architecture.
+ 
+What will you do?
+
+ 
+Work with data APIs to collect or ingest data
+Work with third-party vendors and internal T&O teams to move data between a variety of systems
+Research opportunities for data acquisition and new uses for existing data
+Collaborate with data architect to determine which data management systems to use, data scientists to identify data for analysis, and IT team members on project goals
+Ensure systems meet business requirements and industry practices
+Develop data set processes for data modelling, mining, and production
+Automate ETL processes
+
+
+Continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems
+Utilize relational databases such as MySQL, MS SQL Server, or Oracle
+Implement deployment of data models
+
+ 
+Must-have
+ 
+
+BSc or above in mathematics, statistics, computer science or software engineering
+Total IT experience of at least 5+ years
+Thorough understanding of marketing analytics, data mining, experimentation and measurement
+Ability to multi-task and prioritize/complete projects in a timely manner
+Proven analytics and problem solving skills
+Ability to assist in the deployment of near real-time and real-time advanced analytics models within customer-facing applications
+Experience with design, coding, and testing patterns
+Ability to perform data modelling and understand various data structures, with the ability to identify benefits and limitations
+Strong team player with track record of collaboration and experience working as part of an agile team
+Excellent verbal, written, communication and presentation skills
+Highly detail oriented and comfortable with large amounts of data
+Experience with Hadoop and related programs: Spark, Kafka, Pig, Hive, Sqoop, Flume, HBase, and MapReduce
+Mid-tier experience including REST and SOAP
+Experience with data security for data at rest and in transit (firewalls, hashing, encryption, SSL)
+Knowledge of different programming or scripting languages (Java, Javascript, Python, R, SQL)
+
+ 
+Nice-to-have
+ 
+
+Sound knowledge of CRM 
+Good knowledge of Windows & UNIX Operating Systems
+Familiar with tools such as Oracle, DB2, SQL, Vertica, Teradata, Public Cloud Services
+Experience with agile or other rapid application development methods
+Working knowledge of host MVS and JCL
+Knowledge of General WAS (Websphere), Web Services
+Knowledge of Middleware technologies (ex. MQSeries/Websphere, WXF, XML, .NET)
+
+ 
+ 
+What’s in it for you?
+ 
+
+Work with a quickly growing team within RBC
+Work on a new application having direct impact to clients
+Ability to make a difference and lasting impact
+Continued career advancement opportunities
+Exposure to strong mentorship and leadership examples
+A world-class training program in financial services
+Opportunities to be a valuable member of a close-knit, collaborative team that encourages networking
+A comprehensive Total Rewards Program including bonuses and flexible benefits
+Competitive compensation
+
+ 
+Learn more about RBC Tech Jobs
+ 
+About RBC
+Royal Bank of Canada is Canada’s largest bank, and one of the largest banks in the world, based on market capitalization. We are one of North America’s leading diversified financial services companies, and provide personal and commercial banking, wealth management, insurance, investor services and capital markets products and services on a global basis. We have over 80,000 full- and part-time employees who serve more than 16 million personal, business, public sector and institutional clients through offices in Canada, the U.S. and 37 other countries. For more information, please visit rbc.com.
+ 
+Join our Talent Community
+Stay in-the-know about great career opportunities at RBC. It’s easy! Join our Talent Community and get the inside scoop on the jobs, career paths, and recruitment events that matter to you.
+ 
+Inclusion and Equal Opportunity Employment
+RBC is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status, Aboriginal/Native American status or any other legally-protected factors. Disability-related accommodations during the application process are available upon request.
+ 
+JOB SUMMARY
+City:  Toronto 
+Address:  88 Queens Quay West 
+Work Hours/Week:  37.5 
+Work Environment:  Office 
+Employment Type:  Permanent 
+Career Level:  Experienced Hire/Professional 
+Pay Type:  Salary + Variable Bonus 
+Required Travel(%):  0    
+Exempt/Non-Exempt:  N/A 
+People Manager:  No 
+Job Posting End Date:  01/06/2017 
+Req ID:  124863
+Posting Notes:  
+
+
+
+
+
+Job Segment: 
+Database, Bank, Banking, Engineer, Oracle, Technology, Finance, Engineering

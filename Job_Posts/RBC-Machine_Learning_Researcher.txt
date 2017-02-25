@@ -1,0 +1,76 @@
+http://ca.indeed.com/rc/clk?jk=c1892a3495ec8714&fccid=537b899e30af3338
+What is the opportunity
+RBC Machine Intelligence Research is looking for passionate researchers to join its fast evolving Machine Learning team. We are looking for people that love research, want to continue doing research outside academia and are eager to witness how that can disrupt the future of banking!
+The lab supports open academic collaborations. We work with leading Universities in Canada and the US on machine learning projects in theory and applications in computer vision, NLP, biometrics, security and privacy. As a part of our team you will have the opportunity to publish original research in, peer-reviewed, international academic conferences and journals. The lab typically participates in conferences such as NIPS, ICLR, ICML, CVPR and other. 
+Working for RBC Research offers unique access to structured and unstructured bank datasets that can be used for ML research. If you are looking to continue your research outside academia and want to play with large amounts of real-world data then you belong in this team! 
+ 
+What will you do?
+
+Perform literature reviews in areas of focus and present state-of-the-art findings to the team.
+Conduct original research in Machine Learning for application in computer vision, natural language processing, security, privacy and HCI.
+Formulate and test hypotheses fast and efficiently and Draft, edit and publish academic papers in leading scientific conferences.
+Participate and present work in academic conferences.
+Collaborate with RBC’s data scientists over the use of novel ML algorithms for data analytics and collaborate with development team to enable the transfer of research results into demoable applications.
+Teach team members about latest developments in Machine Learning.
+Contributes to the continuous enhancement of research and innovation at RBC and authority to recommend development of new software applications
+Accountable for the accurate documentation and presentation of technical information to the team and accountable for the accurate and thorough consideration of security, privacy or other technical issues related to technologies.
+
+ 
+What do you need to succeed?
+Must-have
+
+Passion for Research & Development!
+PhD or MSc in computer science, engineering or related fields.
+Publication record in the general ML space.
+Experience with Python.
+Hands-on experience with fast prototyping using public libraries and APIs 
+Strong attention to detail and ability to work independently
+
+ 
+Nice-to-have
+
+Experience with Deep Learning
+
+ 
+What’s in it for you?
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
+
+A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable
+Leaders who support your development through coaching and managing opportunities
+Ability to make a difference and lasting impact
+Work in a dynamic, collaborative, progressive, and high-performing team
+Opportunities to do challenging work 
+
+ 
+Learn more about RBC Tech Jobs
+ 
+About RBC
+Royal Bank of Canada is Canada’s largest bank, and one of the largest banks in the world, based on market capitalization. We are one of North America’s leading diversified financial services companies, and provide personal and commercial banking, wealth management, insurance, investor services and capital markets products and services on a global basis. We have over 80,000 full- and part-time employees who serve more than 16 million personal, business, public sector and institutional clients through offices in Canada, the U.S. and 37 other countries. For more information, please visit rbc.com.
+ 
+Join our Talent Community
+Stay in-the-know about great career opportunities at RBC. It’s easy! Join our Talent Community and get the inside scoop on the jobs, career paths, and recruitment events that matter to you.
+ 
+Inclusion and Equal Opportunity Employment
+RBC is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status, Aboriginal/Native American status or any other legally-protected factors. Disability-related accommodations during the application process are available upon request.
+ 
+JOB SUMMARY
+City:  Toronto 
+Address:  88 Queens Quay 
+Work Hours/Week:  37.5 
+Work Environment:  Office 
+Employment Type:  Permanent 
+Career Level:  Experienced Hire/Professional 
+Pay Type:  Salaried 
+Required Travel(%):  0    
+Exempt/Non-Exempt:  N/A 
+People Manager:  No 
+Job Posting End Date:  12/30/2016 
+Req ID:  114434
+Posting Notes:  None
+
+
+
+
+
+Job Segment: 
+Bank, Developer, Engineer, Banking, Computer Science, Finance, Technology, Engineering
